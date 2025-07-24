@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=lightblue&color=blue)
 ![Java](https://img.shields.io/badge/Java-red?logo=CoffeeScript&labelColor=red&color=red)
+![SQLite](https://img.shields.io/badge/SQLite-white?logo=SQLite&labelColor=blue&color=blue)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-white?logo=ScikitLearn&labelColor=white&color=orange)
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=PyTorch&labelColor=white&color=white)
 ![NumPy](https://img.shields.io/badge/NumPy-white?logo=NumPy&labelColor=grey&color=white)
