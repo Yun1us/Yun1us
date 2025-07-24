@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-green?logo=Python&logoColor=76BD68&labelColor=lightpurple&color=519444)
 ![Java](https://img.shields.io/badge/Java-red?logo=CoffeeScript&labelColor=red&color=red)
 ![SQLite](https://img.shields.io/badge/SQLite-white?logo=SQLite&labelColor=blue&color=blue)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-white?logo=ScikitLearn&labelColor=white&color=orange)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-blue?logo=ScikitLearn&logoColor=EDB051&labelColor=4499B8&color=4499B8)
 ![Docker](https://img.shields.io/badge/Docker-white?logo=Docker&logoColor=60CCEB&labelColor=blue&color=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-white?logo=Pandas&logoColor=8B2CDE&labelColor=lightpurple&color=AB74DB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=PyTorch&labelColor=white&color=white)
