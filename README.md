@@ -9,6 +9,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-white?logo=NumPy&labelColor=grey&color=white)
 ![Git](https://img.shields.io/badge/Git-white?logo=Git&logoColor=white&labelColor=grey&color=white)
 ![Keras](https://img.shields.io/badge/Keras-blue?logo=Keras&labelColor=grey&color=white)
+![Pandas](https://img.shields.io/badge/Pandas-white?logo=Pandas&logoColor=8B2CDE&labelColor=lightpurple&color=AB74DB)
+
 
 
 
