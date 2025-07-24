@@ -12,7 +12,7 @@
 ![Keras](https://img.shields.io/badge/Keras-blue?logo=Keras&labelColor=grey&color=white)
 
 
-![GitHub Snake](https://raw.githubusercontent.com/Yun1us/Yun1us/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Yun1us/Yun1us/output/dist/github-snake.svg)
 
 
 
