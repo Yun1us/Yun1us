@@ -12,6 +12,9 @@
 ![Keras](https://img.shields.io/badge/Keras-blue?logo=Keras&labelColor=grey&color=white)
 
 
+[LinkedIn]([h[ttps://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/inoussa-adouba/)](https://www.linkedin.com/in/inoussa-adouba/))
+
+
 
 
 
