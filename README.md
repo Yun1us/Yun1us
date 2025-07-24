@@ -1,6 +1,6 @@
 ## Hi there, I'm Ino 👋
 
-![Python](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=lightblue&color=blue)
+![Python](https://img.shields.io/badge/Python-green?logo=Python&logoColor=76BD68&labelColor=lightpurple&color=519444)
 ![Java](https://img.shields.io/badge/Java-red?logo=CoffeeScript&labelColor=red&color=red)
 ![SQLite](https://img.shields.io/badge/SQLite-white?logo=SQLite&labelColor=blue&color=blue)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-white?logo=ScikitLearn&labelColor=white&color=orange)
