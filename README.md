@@ -6,6 +6,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=PyTorch&labelColor=white&color=white)
 ![NumPy](https://img.shields.io/badge/NumPy-white?logo=NumPy&labelColor=grey&color=white)
 ![Git](https://img.shields.io/badge/Git-white?logo=Git&logoColor=white&labelColor=grey&color=white)
+![Keras](https://img.shields.io/badge/Keras-blue?logo=Keras&labelColor=grey&color=white)
+
 
 
 
