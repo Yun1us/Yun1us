@@ -1,6 +1,6 @@
 ## Hi there, I'm Ino 👋
 
-I study Artificial Intelligence in Landshut and I'm the Vice Chairman of Innovation and Technology Landshut e.V.
+I study Artificial Intelligence in Landshut and I'm the Vice Chairman of Innovation and Technology Landshut e.V./n
 ![Python](https://img.shields.io/badge/Python-green?logo=Python&logoColor=76BD68&labelColor=lightpurple&color=519444)
 ![Java](https://img.shields.io/badge/Java-red?logo=CoffeeScript&labelColor=red&color=red)
 ![SQLite](https://img.shields.io/badge/SQLite-white?logo=SQLite&labelColor=blue&color=blue)
